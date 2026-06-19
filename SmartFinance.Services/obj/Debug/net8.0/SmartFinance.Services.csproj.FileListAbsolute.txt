@@ -1,0 +1,5 @@
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Services\obj\Debug\net8.0\SmartFinance.Services.csproj.AssemblyReference.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Services\obj\Debug\net8.0\SmartFinance.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Services\obj\Debug\net8.0\SmartFinance.Services.AssemblyInfoInputs.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Services\obj\Debug\net8.0\SmartFinance.Services.AssemblyInfo.cs
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Services\obj\Debug\net8.0\SmartFinance.Services.csproj.CoreCompileInputs.cache

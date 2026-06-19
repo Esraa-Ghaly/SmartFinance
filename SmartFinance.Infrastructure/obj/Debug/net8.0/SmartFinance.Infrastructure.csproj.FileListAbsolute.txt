@@ -1,0 +1,17 @@
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\bin\Debug\net8.0\SmartFinance.Infrastructure.deps.json
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\bin\Debug\net8.0\SmartFinance.Infrastructure.runtimeconfig.json
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\bin\Debug\net8.0\SmartFinance.Infrastructure.dll
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\bin\Debug\net8.0\SmartFinance.Infrastructure.pdb
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\bin\Debug\net8.0\SmartFinance.Core.dll
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\bin\Debug\net8.0\SmartFinance.Core.pdb
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.AssemblyInfo.cs
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFin.0D37D705.Up2Date
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.dll
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\refint\SmartFinance.Infrastructure.dll
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.pdb
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\SmartFinance.Infrastructure.genruntimeconfig.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Infrastructure\obj\Debug\net8.0\ref\SmartFinance.Infrastructure.dll

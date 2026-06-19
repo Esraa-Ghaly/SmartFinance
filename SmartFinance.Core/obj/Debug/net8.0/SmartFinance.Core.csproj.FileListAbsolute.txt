@@ -1,0 +1,14 @@
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\bin\Debug\net8.0\SmartFinance.Core.deps.json
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\bin\Debug\net8.0\SmartFinance.Core.runtimeconfig.json
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\bin\Debug\net8.0\SmartFinance.Core.dll
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\bin\Debug\net8.0\SmartFinance.Core.pdb
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.csproj.AssemblyReference.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.AssemblyInfoInputs.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.AssemblyInfo.cs
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.csproj.CoreCompileInputs.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.dll
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\refint\SmartFinance.Core.dll
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.pdb
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\SmartFinance.Core.genruntimeconfig.cache
+C:\Users\sawsan ghaly\source\repos\SmartFinance\SmartFinance.Core\obj\Debug\net8.0\ref\SmartFinance.Core.dll
